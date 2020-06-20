@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-06-18T11:28:25 IST" name="Suite1" finished-at="2020-06-18T11:28:30 IST" duration-ms="5221">
+    <groups>
+    </groups>
+    <test started-at="2020-06-18T11:28:25 IST" name="Test1" finished-at="2020-06-18T11:28:30 IST" duration-ms="5221">
+      <class name="introduction.TestNgS$SeleniumWebdriverTest">
+        <test-method is-config="true" signature="startChrome()[pri:0, instance:introduction.TestNgS$SeleniumWebdriverTest@4fad94a7]" started-at="2020-06-18T11:28:25 IST" name="startChrome" finished-at="2020-06-18T11:28:28 IST" duration-ms="2767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startChrome -->
+        <test-method signature="MyFirstTestNGTestCase2()[pri:0, instance:introduction.TestNgS$SeleniumWebdriverTest@4fad94a7]" started-at="2020-06-18T11:28:28 IST" name="MyFirstTestNGTestCase2" finished-at="2020-06-18T11:28:30 IST" duration-ms="2054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFirstTestNGTestCase2 -->
+        <test-method is-config="true" signature="cleaupProc()[pri:0, instance:introduction.TestNgS$SeleniumWebdriverTest@4fad94a7]" started-at="2020-06-18T11:28:30 IST" name="cleaupProc" finished-at="2020-06-18T11:28:30 IST" duration-ms="201" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleaupProc -->
+      </class> <!-- introduction.TestNgS$SeleniumWebdriverTest -->
+      <class name="introduction.TestNg$SeleniumWebdriverTest">
+        <test-method is-config="true" signature="startChrome()[pri:0, instance:introduction.TestNg$SeleniumWebdriverTest@36b0fcd5]" started-at="2020-06-18T11:28:25 IST" name="startChrome" finished-at="2020-06-18T11:28:28 IST" duration-ms="2846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startChrome -->
+        <test-method signature="MyFirstTestNGTestCase()[pri:0, instance:introduction.TestNg$SeleniumWebdriverTest@36b0fcd5]" started-at="2020-06-18T11:28:28 IST" name="MyFirstTestNGTestCase" finished-at="2020-06-18T11:28:30 IST" duration-ms="2011" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyFirstTestNGTestCase -->
+        <test-method is-config="true" signature="cleaupProc()[pri:0, instance:introduction.TestNg$SeleniumWebdriverTest@36b0fcd5]" started-at="2020-06-18T11:28:30 IST" name="cleaupProc" finished-at="2020-06-18T11:28:30 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleaupProc -->
+      </class> <!-- introduction.TestNg$SeleniumWebdriverTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
