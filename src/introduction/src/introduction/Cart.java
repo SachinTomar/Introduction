@@ -15,6 +15,7 @@ public class Cart {
 		driver.findElement(By.xpath("//a[@id='hlb-ptc-btn-native']")).click();
 		driver.findElement(By.xpath("//input[@id='ap_email']")).sendKeys("nitishtomar33@gmail.com");
 		driver.findElement(By.xpath("//input[@id='continue']")).click();
+		driver.findElement(By.xpath("//input[@id='ap_password']")).sendKeys("loveisfun");
 
 	}
 
